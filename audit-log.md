@@ -1,0 +1,1 @@
+12:51 AM - 2/3/2023 : Kind of feeling overwhelmed from school, trying my best to cope with this... If you are reading this, i should be fine, might not sound to good for most (if not all) of febuary :)
