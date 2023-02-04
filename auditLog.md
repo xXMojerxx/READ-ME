@@ -8,3 +8,5 @@
 3:08:22 PM - 2/3/2023 : Watching the boys jv soccer game rn. Still kind of getting stressed bc of robotics competition. Other than that, GOT DAMMIT CALEB!!! WHY THE HELL ARE YOU IN A GAME BUT YOU TOLD US NOTHING ON HOW TO DO THE ROBOT????. Good to know :).
 
 10:12:04 PM - 2/3/2023: Very stressed about robotics competition. When i mean very stressed, i mean VERY stressed. Samantha is not going to the competion AND she got grounded for the whole weeken, Jonny is not going to make it as well, so wtf do we do now? At this poitn i am going to leave it up to the seniors and the juniors are just going to sit back or help out a little bit. Very sad day today. (╯°□°)╯︵ ┻━┻
+
+11:42:34 AM - 2/4/2023 : In robotics comp rn. We droped out (funny momment). So we are all chilling at the competition. We have been trolling around for the past 2 hours, Caleb and them were taking "notes" on other peiples robots. Honestly, this was one of the funniest ones.
