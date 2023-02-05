@@ -10,3 +10,5 @@
 10:12:04 PM - 2/3/2023: Very stressed about robotics competition. When i mean very stressed, i mean VERY stressed. Samantha is not going to the competion AND she got grounded for the whole weeken, Jonny is not going to make it as well, so wtf do we do now? At this poitn i am going to leave it up to the seniors and the juniors are just going to sit back or help out a little bit. Very sad day today. (╯°□°)╯︵ ┻━┻
 
 11:42:34 AM - 2/4/2023 : In robotics comp rn. We droped out (funny momment). So we are all chilling at the competition. We have been trolling around for the past 2 hours, Caleb and them were taking "notes" on other peiples robots. Honestly, this was one of the funniest ones.
+
+9:01:22 AM - 2/5/2023 : Little bit late on this one. Still kind of contemplating life. Overall for robotics, the current juniors has alot of ideas for next year, hopefully not dissapointing my sato. We are sill going ot finish our competition robot so we dont dissapoitn him and that we actualy care. But school work as well, killing me. And screw my confirmation class. LIKE WHAT DA HALL DO I DO WITH 3 DAYS WITH OUT MY PHONE ?????
