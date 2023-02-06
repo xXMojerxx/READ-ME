@@ -16,3 +16,5 @@
 6:00:23 PM - 2/5/2023 : Just had some good food at Blue Lotus. Saw Andrew (the softmore), was kind of funny ngl. Still need to turn in my comp sci homework, should do that once i get home. Some of my stress is kind of getting relieved bc im forgetting about most things, but still hitting me hard. Contemplating if i should work in robot durring 5th or just passout.
 
 11:58:49 PM - 2/5/2023 : Still up at night, trying to do a raid with Sergio and them. Idk why i stayed, i rahter go to sleep and think about other things, but here we are. I think what im going to do durring 5th period would be resting and staying int he corner for now. But other than that, i might just go to sleep now. OH SHOOT I NEED TO DO MY MATH HOMEWORK. GGS BRUH
+
+10:02:24 AM - 2/6/2023 : Currently in Ms Pratts class. Just honestly waiting for lunch to come so T can see the progress that allt he TSA memmbers have done. L BOZO people no cap. But I hate AP LANG with a passion, so i dont wnat to go to period 3 rn. Why tf did the school have to move ALL the juniors to AP LANG? Oh well, time to cope about it.
