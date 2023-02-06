@@ -13,4 +13,6 @@
 
 9:01:22 AM - 2/5/2023 : Little bit late on this one. Still kind of contemplating life. Overall for robotics, the current juniors has alot of ideas for next year, hopefully not dissapointing my sato. We are sill going ot finish our competition robot so we dont dissapoitn him and that we actualy care. But school work as well, killing me. And screw my confirmation class. LIKE WHAT DA HELL DO I DO WITH 3 DAYS WITH OUT MY PHONE ?????
 
-6:00:23 Pm - 2/5/2023 : Just had some good food at Blue Lotus. Saw Andrew (the softmore), was kind of funny ngl. Still need to turn in my comp sci homework, should do that once i get home. Some of my stress is kind of getting relieved bc im forgetting about most things, but still hitting me hard. Contemplating if i should work in robot durring 5th or just passout.
+6:00:23 PM - 2/5/2023 : Just had some good food at Blue Lotus. Saw Andrew (the softmore), was kind of funny ngl. Still need to turn in my comp sci homework, should do that once i get home. Some of my stress is kind of getting relieved bc im forgetting about most things, but still hitting me hard. Contemplating if i should work in robot durring 5th or just passout.
+
+11:58:49 PM - 2/5/2023 : Still up at night, trying to do a raid with Sergio and them. Idk why i stayed, i rahter go to sleep and think about other things, but here we are. I think what im going to do durring 5th period would be resting and staying int he corner for now. But other than that, i might just go to sleep now. OH SHOOT I NEED TO DO MY MATH HOMEWORK. GGS BRUH
