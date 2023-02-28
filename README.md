@@ -29,7 +29,7 @@ index.forEach(function(index){
     if (index = 4){
       console.log("Thank you for everyone who has helped me throughout the years!");
       console.log("I really appreciate it from the bottom of my heart and i wish that i can repay everyone back one day");
-      console.log("Also thanks jason for teaching me these things for Javascript, its very helpful and I would have never learned anything without you :)");
+      console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
     }
   });
 });
