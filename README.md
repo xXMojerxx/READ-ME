@@ -13,7 +13,8 @@ var information2 = [
   "Engineering",
   "Robotics",
   "Keyboards (kind of)",
-  "Talking with friends <3"
+  "Talking with friends <3",
+  "Text art on Github"
 ];
 
 var information3 = {
