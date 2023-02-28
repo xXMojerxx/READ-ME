@@ -16,8 +16,8 @@ var information2 = [
 var information3 = {
   instagram: "@xjomerx",
   twitter: "@Mojer37163603", 
-  discord: "Kermit#0842"
-  valorant: "Lump1a#Yum"
+  discord: "Kermit#0842",
+  valorant: "Lump1a#Yum",
   ffxiv: "Caleb Dinonuggets"
 };
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3"
