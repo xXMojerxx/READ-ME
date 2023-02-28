@@ -7,7 +7,6 @@ var information1 = {
   name: "Jude",
   pronouns: "he/him"
  };
- 
 var information2 = [
   "Video Games", 
   "Coding", 
@@ -17,7 +16,6 @@ var information2 = [
   "Talking with friends <3",
   "Text art on Github"
 ];
-
 var information3 = {
   instagram: "@xjomerx",
   twitter: "@Mojer37163603", 
@@ -25,9 +23,7 @@ var information3 = {
   valorant: "Lump1a#Yum",
   ffxiv: "Caleb Dinonuggets"
 };
-
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3"
-
 var information5 = "Current Languages learned = 1; Javascript"
 
 //-----ABOUT-ME-----//
