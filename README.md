@@ -2,6 +2,7 @@
 var informationTitle = ["Name", "Hobbies", "Socials", "Clossest Friends", "Languages Learned"];
 
 //-----ABOUT-ME-----//
+
 var information1 = {
   name: "Jude",
   pronouns: "he/him"
