@@ -18,7 +18,7 @@ var information3 = {
   twitter: "@Mojer37163603", 
   discord: "Kermit#0842"
   valorant: "Lump1a#Yum"
-  FFXIV Account: "Caleb Dinonuggets"
+  ffxiv: "Caleb Dinonuggets"
 };
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3"
 var information5 = "Current Languages learned = 1; Javascript"
