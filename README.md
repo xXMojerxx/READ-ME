@@ -1,3 +1,4 @@
+``` javascript
 //Library of titles//
 var informationTitle = ["Name","Hobbies","Socials","Clossest Friends","Current Languages Learned"];
 //Library of titles//
@@ -39,3 +40,4 @@ index.forEach(function(index){
     }
   });
 });
+```
