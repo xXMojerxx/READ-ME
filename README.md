@@ -29,19 +29,13 @@ var information5 = "Current Languages learned = 1; Javascript"
 
 //-----ABOUT-ME-----//
 
-var index = [1, 2, 3, 4, 5];
-
-index.forEach(function(number){
-  onEvent("aboutMeButton" + number, "click", function(){
-    console.log(informationTitle[number - 1]);
-    console.log("");
-    console.log("information" + number);
-    console.log("");
-    if (number = 4){
-      console.log("Thank you for everyone who has helped me throughout the years!");
-      console.log("I really appreciate it from the bottom of my heart, I wish that i can repay everyone back one day");
-      console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
-    }
-  });
-});
+for(var i = 0, i < informationTitle.length, i++){
+ console.log(informationTitle[number - 1]);
+ console.log("information" + number);
+ console.log("");
+ if (number = 4){
+   console.log("Thank you for everyone who has helped me throughout the years!");
+   console.log("I really appreciate it from the bottom of my heart, I wish that i can repay everyone back one day");
+   console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
+}
 ```
