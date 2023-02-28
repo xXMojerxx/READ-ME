@@ -34,13 +34,13 @@ var information5 = "Current Languages learned = 1; Javascript"
 
 var index = [1, 2, 3, 4, 5];
 
-index.forEach(function(index){
-  onEvent("aboutMeButton" + index, "click", function(){
-    console.log(informationTitle[index - 1]);
+index.forEach(function(number){
+  onEvent("aboutMeButton" + number, "click", function(){
+    console.log(informationTitle[number - 1]);
     console.log("");
-    console.log("information" + index);
+    console.log("information" + number);
     console.log("");
-    if (index = 4){
+    if (number = 4){
       console.log("Thank you for everyone who has helped me throughout the years!");
       console.log("I really appreciate it from the bottom of my heart and i wish that i can repay everyone back one day");
       console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
