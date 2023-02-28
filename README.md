@@ -28,9 +28,9 @@ var information4 = "Everyone in robotics club and Middle School Friends :), espe
 var information5 = "Current Languages learned = 1; Javascript";
 
 //-----ABOUT-ME-----//
-var information = [information1,information2,information3,information4,information5];
+var information = [information1, information2, information3, information4, information5];
 
-for(var index = 0; index < 6; index++){
+for (var index = 0; index < 6; index++) {
   console.log(informationTitle[index - 1]);
   console.log(information[index - 1]);
   console.log("");
@@ -38,7 +38,6 @@ for(var index = 0; index < 6; index++){
     console.log("Thank you for everyone who has helped me throughout the years!");
     console.log("I really appreciate it from the bottom of my heart, I wish that i can repay everyone back one day");
     console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
-    console.log("");
   }
 }
 ```
