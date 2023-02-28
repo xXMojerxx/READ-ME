@@ -38,6 +38,7 @@ for (var index = 0; index < 6; index++) {
     console.log("Thank you for everyone who has helped me throughout the years!");
     console.log("I really appreciate it from the bottom of my heart, I wish that i can repay everyone back one day");
     console.log("Also thanks Jason for teaching me all of these things, would have never figured these things out");
+    console.log("");
   }
 }
 ```
