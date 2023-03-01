@@ -28,6 +28,7 @@ var information4 = "Everyone in robotics club and Middle School Friends :), espe
 var information5 = "Current Languages learned = 1; Javascript";
 
 //-----ABOUT-ME-----//
+
 var information = [information1, information2, information3, information4, information5];
 
 for (var index = 0; index < 6; index++) {
