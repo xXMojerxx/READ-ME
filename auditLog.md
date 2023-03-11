@@ -38,3 +38,5 @@
 ### MARCH MOMMENT
 
 9:57:49 PM - 3/1/2023: Welcome to march! Anyways... time for me to go on a rant about my life. Me and mr-jules san are planning to make something for a special pair of people for a specific thing they are doing. (Hopefully they are not looking about this :\). Other than that, we are going to also plan to host a party for Mr. Sato next week robotics meeting, and we have some ideas so far. Just going to keep this one short, still coping about life :).
+
+9:33:29 AM - 3/11/2023: SCALE MOMMENT LETS GO!!!! CHEERING SAMANTHA AND DAN ON FOR THEIR PRESENTATION. We have been waiting to give them something for the whole week, so we pray that they cry tears of joy :). gonna keep this short because my ass cheeks hurt so god dam mich, but good luck to them!!!!!
