@@ -18,14 +18,14 @@ var information2 = [
 ];
 var information3 = {
   instagram: "|-@xjomerx-|",
-  twitter: "|-@Mojer37163603-|",
   discord: "|-Kermit#0842-|",
-  valorant: "|-Lump1a#Yum-| Current Rank = Gold",
+  destiny2: "|-
+  valorant: "|-Lump1a#Yum-| Current Rank = IDK maybe silver",
   ffxiv: "|-Caleb Dinonuggets-| Favorite Class = DRK",
   osu: "|-xXMojerXx-| Ranked #251,061 2/27/2023"
 };
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3";
-var information5 = "Current Languages learned = 1; Javascript";
+var information5 = "Current Languages learned = 2 [ish]; Javascript && Python[ish]";
 
 //-----ABOUT-ME-----//
 
@@ -40,6 +40,8 @@ for (var index = 0; index < 6; index++) {
     console.log("I really appreciate it from the bottom of my heart, I wish that i can repay everyone back");
     console.log("Also thanks Jason for teaching me all of these things, very smart mans out here :)");
     console.log("");
+  } else {
+    console.log("yeha idk about everything else");
   }
 }
 ```
