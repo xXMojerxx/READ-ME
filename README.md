@@ -19,7 +19,7 @@ var information2 = [
 var information3 = {
   instagram: "|-@xjomerx-|",
   discord: "|-Kermit#0842-|",
-  destiny2: "|-
+  destiny2: "|-TJIM_Mojer#3024-| Favorite Class = Arc Exo Hunter",
   valorant: "|-Lump1a#Yum-| Current Rank = IDK maybe silver",
   ffxiv: "|-Caleb Dinonuggets-| Favorite Class = DRK",
   osu: "|-xXMojerXx-| Ranked #251,061 2/27/2023"
