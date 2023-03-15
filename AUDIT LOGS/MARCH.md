@@ -1,0 +1,7 @@
+### MARCH MOMMENT
+
+9:57:49 PM - 3/1/2023: Welcome to march! Anyways... time for me to go on a rant about my life. Me and mr-jules san are planning to make something for a special pair of people for a specific thing they are doing. (Hopefully they are not looking about this :\). Other than that, we are going to also plan to host a party for Mr. Sato next week robotics meeting, and we have some ideas so far. Just going to keep this one short, still coping about life :).
+
+9:33:29 AM - 3/11/2023: SCALE MOMMENT LETS GO!!!! CHEERING SAMANTHA AND DAN ON FOR THEIR PRESENTATION. We have been waiting to give them something for the whole week, so we pray that they cry tears of joy :). gonna keep this short because my ass cheeks hurt so god dam mich, but good luck to them!!!!!
+
+12:26:30 AM - 3/15/2023: I need to take my mind off some things right now. There is way to much that happened today that my mind needs to have a mental reset. Maybe durring 5th or 7th i might take one, but for now i need to focus on my grades. They are dropping drastically, especialy my AP lang grade. I know im not the greatest at english, but i cant be doing this bad or else i cant pass the AP test. There is way to much going on in my mind, but hopefully it will all end soon. Also whats happening with discord, i can even with them at this point. Its not their fauly, bbut the overall idiocity of our friend group is getting the better of me. I need to focus more on my self than others, but i cant with the current thinking
