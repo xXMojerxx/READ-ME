@@ -1,4 +1,3 @@
-``` javascript
 //Variables used to hold the values of each card//
 var cardList = [];
 var handList = [];
@@ -147,4 +146,3 @@ function removeHand() {
   setText("hand1", "");
   setText("hand2", "");
 }
-```
