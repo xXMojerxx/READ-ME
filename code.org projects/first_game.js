@@ -1,5 +1,3 @@
-``` javascript
-
 var y = randomNumber(75,325);
 var x = randomNumber(75,325);
 var hitbox = createSprite(200,y);
@@ -338,5 +336,3 @@ fill("white");
 textSize(25);
 text(score,196,40);
 }
-
-```
