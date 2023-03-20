@@ -1,5 +1,4 @@
-``` javasccript
-
+``` javascript
   //-------------------------------------\\
  //  HIGHEST SCORE IS (FOR CSE CLASS NOW) \\
 //-----------------------------------------\\
