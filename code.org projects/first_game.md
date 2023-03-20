@@ -1,8 +1,4 @@
 ``` javascript
-  //-------------------------------------\\
- //  HIGHEST SCORE IS (FOR CSE CLASS NOW) \\
-//-----------------------------------------\\
-
 
 var y = randomNumber(75,325);
 var x = randomNumber(75,325);
