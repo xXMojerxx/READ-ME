@@ -26,12 +26,16 @@ var information3 = {
 };
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3";
 var information5 = "Current Languages learned = 3 [ish]; Javascript, Python[ish], c++[ish]";
+var information6 = {
+  my-website: "https://xxmojerxx.github.io",
+  vhtpa-robotics-website: "https://htpa-robo-ticks.github.io"
+};
 
 //-----ABOUT-ME-----//
 
-var information = [information1, information2, information3, information4, information5];
+var information = [information1, information2, information3, information4, information5,information6];
 
-for (var index = 0; index < 6; index++) {
+for (var index = 0; index < 7; index++) {
   console.log(informationTitle[index - 1]);
   console.log(information[index - 1]);
   console.log("");
