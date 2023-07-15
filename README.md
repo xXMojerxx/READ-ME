@@ -1,5 +1,5 @@
 ``` javascript
-var informationTitle = ["Name", "Hobbies", "Socials", "Clossest Friends", "Languages Learned"];
+var informationTitle = ["Name", "Hobbies", "Socials", "Clossest Friends", "Languages Learned","Websites"];
 
 //-----ABOUT-ME-----//
 
