@@ -27,8 +27,8 @@ var information3 = {
 var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San <3";
 var information5 = "Current Languages learned = 3 [ish]; Javascript, Python[ish], c++[ish]";
 var information6 = {
-  my-website: "https://xxmojerxx.github.io",
-  vhtpa-robotics-website: "https://htpa-robo-ticks.github.io"
+  myWebsite: "https://xxmojerxx.github.io",
+  vhtpaRoboticsWebsite: "https://htpa-robo-ticks.github.io"
 };
 
 //-----ABOUT-ME-----//
