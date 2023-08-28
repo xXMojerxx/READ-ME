@@ -24,7 +24,7 @@ var information3 = {
   ffxiv: "|-Caleb Dinonuggets-| Favorite Class = DRK",
   osu: "|-xXMojerXx-| Ranked #246,462 5/12/2023"
 };
-var information4 = "Everyone in robotics club and Middle School Friends :), especially Mr. Jules-San, Ms. Samantha, and Mr. Jose <3";
+var information4 = "Everyone in robotics club and Middle School Friends :), especially Jules, Samantha, Dan, and Jose <3";
 var information5 = "Current Languages learned = 3 [ish]; Javascript, Python[ish], c++[ish]";
 var information6 = {
   myWebsite: "https://xxmojerxx.github.io <- Still working on it",
