@@ -25,10 +25,11 @@ var information3 = {
   osu: "|-xXMojerXx-| Ranked #246,462 5/12/2023"
 };
 var information4 = "Everyone in robotics club and Middle School Friends <3";
-var information5 = "Current Languages learned = 3 [ish]; Javascript, Python[ish], c++[ish]";
+var information5 = "Current Programming Languages learned = 3 [ish]; Javascript, Python[ish], c++[ish]";
 var information6 = {
   myWebsite: "https://xxmojerxx.github.io <- Still working on it",
-  vhtpaRoboticsWebsite: "https://htpa-robo-ticks.github.io <- Still working on it"
+  learningCPP: "https://github.com/xXMojerxx/coding-time",
+  teachingAPCSProgramming: "https://github.com/xXMojerxx/Jude-APCS-Classroom"
 };
 
 //-----ABOUT-ME-----//
