@@ -17,6 +17,7 @@
 | programming | FFXIV : Caleb Dinonuggets ( favorite class -> DRK ) | c++ |
 | text art / drawing / painting | OSU : xXMojerXx ( Rank #246,462 ) | - |
 | keyboard building | RIOT GAMES : Lump1a#Yum ( LoL -> Riven -~~- Valorant -> Killjoy ) | - |
+| volleyball | - | - |
 
 ## CURRENT PROJECTS
 personal website ( still working on it ) --> https://xxmojerxx.github.io
