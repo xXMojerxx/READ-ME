@@ -13,10 +13,10 @@
 | HOBBIES | SOCIALS | CODING LANGUAGES |
 | ------- | ------- | ---------------- |
 | playing video games | INSTAGRAM : @xjomerx | python |
-| playing the piano | DISCORD : Kermit#0842 | javascript |
+| playing the piano | DISCORD : jomer. | javascript |
 | programming | FFXIV : Caleb Dinonuggets ( favorite class -> DRK ) | c++ |
 | text art / drawing / painting | OSU : xXMojerXx ( Rank #246,462 ) | - |
-| keyboard building | RIOT GAMES : Lump1a#Yum ( LoL -> Riven -~~- Valorant -> Killjoy ) | - |
+| keyboard building | RIOT GAMES : Lump1a#Yum ( LoL -> Riven \\ Valorant -> jett/cypher ) | - |
 | volleyball | - | - |
 
 ## CURRENT PROJECTS
