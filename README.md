@@ -22,7 +22,7 @@
 ## CURRENT PROJECTS
 personal website ( still working on it ) --> https://xxmojerxx.github.io
 
-learning c++ --> https://github.com/xXMojerxx/CPSP-131-data-structures
+learning data structure (in c++) --> https://github.com/xXMojerxx/CPSP-131-data-structures
 
 learning python ( college class ) --> https://github.com/xXMojerxx/coding-time/tree/main/learning%20python%20(college)
 
